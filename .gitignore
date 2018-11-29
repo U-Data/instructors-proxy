@@ -6,6 +6,8 @@ npm
 npm-debug.log
 node_modules/
 
+newRelicKey.js
+
 pids
 *.pid
 logs
